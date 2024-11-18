@@ -257,25 +257,25 @@ class FreelancerCard extends StatelessWidget {
 class FreelancerList extends StatelessWidget {
   final List<Map<String, dynamic>> freelancers = [
     {
-      "name": "Refki",
+      "name": "Lila",
       "profession": "Youtuber",
       "rating": 4.9,
       "image": "assets/images/Buy2.jpg"
     },
     {
-      "name": "Abdullah",
+      "name": "Indri",
       "profession": "Beautician",
       "rating": 4.9,
       "image": "assets/images/Buy3.jpg"
     },
     {
-      "name": "Rafli",
+      "name": "Magfira",
       "profession": "Beautician",
       "rating": 4.9,
       "image": "assets/images/Buy1.jpg"
     },
     {
-      "name": "Sultan",
+      "name": "Safira",
       "profession": "Content Creator",
       "rating": 4.9,
       "image": "assets/images/profile3.jpg"
